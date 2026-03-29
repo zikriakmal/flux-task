@@ -132,7 +132,7 @@ export default function App() {
                 Workspace
               </p>
               <h1 className="text-[2rem] font-extrabold tracking-tight bg-[linear-gradient(135deg,#fff_30%,#c4b5fd)] bg-clip-text text-transparent">
-                Flux Tasks
+                Flux Tasks Test
               </h1>
             </div>
             <div className="flex items-center gap-[7px] bg-white/[0.07] border border-white/[0.13] rounded-full px-[14px] py-[6px] text-[0.78rem] text-white/60">
